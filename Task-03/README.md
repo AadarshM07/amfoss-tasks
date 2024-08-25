@@ -1,1 +1,1 @@
-
+This task made me realize that learning a new coding language is both challenging and time-consuming. However,Throughout the process  I’ve gained valuable knowledge and a deeper understanding of programming concepts.
