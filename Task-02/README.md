@@ -8,4 +8,4 @@ I became a bit frustrated. I used the git command to navigate to the Light Realm
 
 **PART-3**
 
-In the third part, I used the git checkout command to switch between branches 'The-Dark-Realm-I' and 'The-Dark-Realm-II' and discovered four codes there.
+In the third part, I used the git checkout command to switch between branches 'The-Dark-Realm-I' and 'The-Dark-Realm-II' and discovered three codes there.
