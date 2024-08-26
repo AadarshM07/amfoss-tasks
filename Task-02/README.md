@@ -10,3 +10,12 @@ I became a bit frustrated. I used the git command to navigate to the Light Realm
 
 In the third part, I used the git checkout command to switch between branches 'The-Dark-Realm-I' and 'The-Dark-Realm-II' and discovered Four codes there.It was really time consuming.
 
+**PART-4**
+
+After spending a considerable amount of time, I decoded the codes and  found the gosuite repo : https://github.com/amansxcalibur/Terminal-Chaos-Godsuite
+
+
+**PART-5**
+
+Compareively this part gone smooth and after long search  found : https://github.com/angrezichatterbox/To-the-stars-and-realms-unseen ,Then cloned the repo and runned victory.py.
+THE AMOUNT OF SATISFACTION I GOT CANNOT BE EXPLAINED
