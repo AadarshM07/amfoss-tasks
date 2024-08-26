@@ -1,0 +1,5 @@
+-Sort the images by the number specified in the filename
+-Use OpenCV to detect the dot on each image and record its coordinates as well as its colour
+-Use Pillow to draw a line between the dot on one image and the dot on the succeeding image
+-The colour of the line should be governed by the colour of the starting dot
+-The pure white images represent a line break. I.e. you should not draw to it from a previous image
