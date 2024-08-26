@@ -1,2 +1,2 @@
-*HEADING
+**HEADING
 
