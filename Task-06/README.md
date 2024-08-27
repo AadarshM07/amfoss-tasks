@@ -61,6 +61,5 @@ hass
 Visit http://homeassistant.local:8123 or http://localhost:8123
 
 
-## USAGE
 
 
