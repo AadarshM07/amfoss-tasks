@@ -56,3 +56,21 @@ Integrate sensors like intrusion, fire, or water leakage detectors to trigger au
 **Smart Security Cameras:**
 
 Monitor your property through smart security cameras integrated with Home Assistant. Access live feeds, control camera features, and receive alerts directly from your dashboard.
+
+
+## BACKEND OF HOME ASSISTANT
+
+**Home Assistant Core:** This is the heart of the platform, written in Python. It handles all integrations, automations, and the state management of entities (devices, sensors, etc.). The core manages communication with various smart devices and services through integrations.
+
+**Database:** Home Assistant uses SQLite by default to store historical data, such as sensor readings and state changes. Users can also configure other databases like MySQL or PostgreSQL for better performance and scalability
+
+
+**API:** Home Assistant provides a RESTful API, allowing interaction with the platform from external applications and services. This API is used to control entities, trigger automations, and retrieve data.
+
+**Supervisor (for Home Assistant OS and Supervised installations):** This is a Docker-based management layer that handles the installation and maintenance of Home Assistant, as well as managing add-ons, backups, and updates.
+
+
+
+
+
+## CODE EXAMPLE
