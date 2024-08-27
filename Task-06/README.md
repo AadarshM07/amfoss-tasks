@@ -47,6 +47,10 @@ sudo -u homeassistant -H -s
 cd /srv/homeassistant
 python3 -m venv .
 source bin/activate
+```
+
+**Install core:**
+```
 python3 -m pip install wheel
 pip3 install homeassistant==2024.8.3
 ```
