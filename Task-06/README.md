@@ -2,7 +2,7 @@
 
 ## OVERVIEW
 
-Home Assistant is an open-source home automation platform that focuses on privacy and local control. It allows you to integrate and automate various smart home devices, providing a centralized platform to manage and control them. Home Assistant can run on various systems, including x86 Linux machines, using Docker for easy setup and management.
+Home Assistant is an open-source home automation platform that focuses on privacy and local control. It allows you to integrate and automate various smart home devices, providing a centralized platform to manage and control them. Home Assistant can run on various systems, including x86 Linux machines, using Docker for easy setup and management. [Home Assistant](https://github.com/home-assistant/core)
 
 
 ## FEATURES
