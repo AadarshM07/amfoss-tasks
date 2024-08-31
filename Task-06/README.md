@@ -20,16 +20,21 @@ Home Assistant is an open-source home automation platform that focuses on privac
 
 ## INSTALLATION GUIDLINES
 
-### Prerequisites
+### **Prerequisites**
+
 **1.OS:** Linux with Python 3.12+ installed.
 
-###**2.** Install Dependencies:
+### **Install Dependencies:**
+
+**2.**
 
 ```bash
 sudo apt-get update
 sudo apt-get upgrade -y
 sudo apt-get install -y python3 python3-dev python3-venv python3-pip bluez libffi-dev libssl-dev libjpeg-dev zlib1g-dev autoconf build-essential libopenjp2-7 libtiff6 libturbojpeg0-dev tzdata ffmpeg liblapack3 liblapack-dev libatlas-base-dev
 ```
+
+### **Setup**
 
 **3. Create Home Assistant Account:**
 ```bash
@@ -57,7 +62,7 @@ pip3 install homeassistant==2024.8.3
 hass
 ```
 
-**7. Access Home Assistant**
+### **Access Home Assistant**
 
 Navigate to http://homeassistant.local:8123 or http://localhost:8123 to acess the application.
 
