@@ -11,23 +11,23 @@ Home Assistant is an open-source home automation platform that allows you to con
 
 
 - **Automations:** 
-     *Home Assistant supports advanced automation capabilities, allowing you to set up actions triggered by specific conditions or events. For instance, you can 
-    automate lighting based on the time of day or control appliances based on motion detection.*
+     Home Assistant supports advanced automation capabilities, allowing you to set up actions triggered by specific conditions or events. For instance, you can 
+    automate lighting based on the time of day or control appliances based on motion detection.
 
 - **Dashboards:**
- *Create customizable dashboards to monitor and control all your smart devices from a single, user-friendly interface.*
+  Create customizable dashboards to monitor and control all your smart devices from a single, user-friendly interface.
 
 - **Voice Assistants:**
- *Integrate with voice assistants like Google Assistant or Amazon Alexa, enabling voice control over your smart home devices.*
+  Integrate with voice assistants like Google Assistant or Amazon Alexa, enabling voice control over your smart home devices.
 
 - **Home Energy Management:**
- *Track and optimize your home's energy consumption, including solar energy production, for cost savings and efficiency.*
+  Track and optimize your home's energy consumption, including solar energy production, for cost savings and efficiency.
 
 - **Advanced Configuration:**
- *Fine-tune your setup with advanced configurations for more complex automation, device integrations, and custom scripts.*
+  Fine-tune your setup with advanced configurations for more complex automation, device integrations, and custom scripts.
 
 - **Backend & Authentication:**
- *Home Assistant offers robust backend capabilities and secure authentication to keep your smart home data safe and private.*
+  Home Assistant offers robust backend capabilities and secure authentication to keep your smart home data safe and private.
 
 
 ### Common Device Integrations
@@ -149,3 +149,7 @@ if TYPE_CHECKING:
     from .config_entries import ConfigEntries
     from .helpers.entity import StateInfo
 ```
+
+##CODE
+
+Navigate to  [HOME ASSISTANT SOURCE CODE](https://github.com/home-assistant/core/blob/dev/homeassistant/core.py)
