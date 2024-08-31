@@ -150,6 +150,6 @@ if TYPE_CHECKING:
     from .helpers.entity import StateInfo
 ```
 
-##CODE
+## CODE
 
 Navigate to  [HOME ASSISTANT SOURCE CODE](https://github.com/home-assistant/core/blob/dev/homeassistant/core.py)
