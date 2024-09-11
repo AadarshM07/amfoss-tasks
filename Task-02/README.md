@@ -23,24 +23,24 @@ THE AMOUNT OF SATISFACTION I GOT CANNOT BE EXPLAINED
 
 ## COMMANDS LEARNED
 
-### Ubuntu Terminal
-cd <directory_path>: Changes the current working directory to the specified path.
+### *Ubuntu Terminal*
 
-ls: Lists files and directories present in the current directory.
+``cd <directory_path>:`` Changes the current working directory to the specified path.
 
-grep: Searches for specific text within files.
+``ls:`` Lists files and directories present in the current directory.
 
-chmod: Modifies file permissions.
+``grep:`` Searches for specific text within files.
 
-tree: Displays the directory structure starting from the current directory.
+``chmod:`` Modifies file permissions.
 
-nano <file_name>: Opens the default text editor for creating or editing a file.
+``tree:`` Displays the directory structure starting from the current directory.
 
-cat <file_name>: Outputs the contents of a file.
+``cat <file_name>:`` Outputs the contents of a file.
 
-echo -n <Base64EncodedStringHere> | base64 -d: Decodes the provided Base64 string.
+``python [filename] --run :`` To run a python file
 
-### Git
+### *Git*
+
 ``git init:`` Initializes a directory as a Git repository.
 
 ``git clone <url>:`` Clones the repository from the specified URL.
