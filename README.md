@@ -1,6 +1,6 @@
 # amfoss-tasks
 
-## *INTRODUCTION*
+## INTRODUCTION
 
 Myself, Aadarsh Mahesh K, I am a first-year BTech Electronics and Computer undergrad at Amrita Vishwa Vidyapeetham, Amritapuri campus. I know beginner-level coding and my preferred language is Python. My hobbies inclube playing basketball and hitting the gym ,Also i am really commited on putting the hardwork and give my best on every work i take on.
 ## **Why should we choose you?**
