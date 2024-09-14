@@ -174,7 +174,7 @@ async def help_command(update: Update, context: CallbackContext) -> None:
     )
 
 # Token and application setup
-token = "7304380494:AAHXmDAphvVbY9CV8b-HT0XQVL1BMcnl90c"
+token = "BOT_TOKEN"
 application = Application.builder().token(token).build()
 
 application.add_handler(CommandHandler('start', start))
