@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import click
 import zipfile
 
-BASE_URL = "https://www.opensubtitles.org"
+BASE_URL = "https://www.opensubtitles.org"  
 
 def extract_imdb_id(input_str):
     """Extract IMDb ID from URL or movie name."""
@@ -54,7 +54,7 @@ def scrape_opensubtitles(imdb_id, language=None, file_size=None):
                     size_text = size_tag.text.strip()
                     try:
                         size_mb = float(size_text.replace('MB', '').strip())
-                        if size_mb < file_size:
+                        if size_mb > file_size:  # Filter out larger files
                             continue
                     except ValueError:
                         pass  # Ignore size parsing errors
@@ -111,13 +111,14 @@ def extract_zip(zip_path, extract_to):
 @click.argument('input', type=str)
 @click.option('-l', '--language', default='eng', help='Subtitle language (e.g., eng, spa, all).')
 @click.option('-o', '--output', default='.', help='Directory to save the subtitle links.')
-def main(input, language, output):
+@click.option('-s', '--size', type=float, default=None, help='Maximum subtitle file size in MB.')
+def main(input, language, output, size):
     """Main function to scrape subtitles."""
     base_name = os.path.splitext(os.path.basename(input))[0] if os.path.isfile(input) else input
     imdb_id = extract_imdb_id(input)
 
     if imdb_id:
-        subtitles = scrape_opensubtitles(imdb_id, language)
+        subtitles = scrape_opensubtitles(imdb_id, language, size)
         if subtitles:
             print(f"Found {len(subtitles)} subtitles:")
             for i, subtitle in enumerate(subtitles, 1):
