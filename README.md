@@ -17,7 +17,7 @@ My field of interest lies in both electronics and computers, which explains why 
 
 ## **What are your thoughts and feedback on the Praveshan Selection Process?**
 
-The tasks have been truly amazing. With each one, I learned something new . It’s been a long journey, filled with challenges, but over time, I was able to overcome them. I’m really grateful to my mentors, who continuously guided me throughout the process.Despite making it this far, I can’t help but feel a little unsatisfied, as I wasn’t able to complete all 10 tasks. Nevertheless, I have a strong feeling that something even better is on the horizon, and I remain hopeful for the best outcome.
+The tasks have been truly amazing. With each one, I learned something new . It’s been a long journey, filled with challenges, but over time, I was able to overcome them. I’m really grateful to my mentors, who continuously guided me throughout the process.Despite making it this far, I can’t help but feel a little unsatisfied, as I wasn’t able to complete all 10 tasks.
 
 # **TASK STATUS**
 
@@ -25,17 +25,17 @@ My statistics is as shown :
 
 | Task List | Description | Status |
 | :-:       | :-:         | :-:    |
-| Task-00   | [Install Linux](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-00) | [Status] |
-| Task-01   | [Type Maestro](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-01) | [Status] |
-| Task-02   | [Terminal Chaos](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-02) | [Status] |
-| Task-03   | [Hello, World!](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-03) | [Status] |
-| Task-04   | [Gopal and his PagePal](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-04)  | [Status] |
-| Task-05   | [TerminalTrolly](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-05) | [Status] |
-| Task-06   | [OpenDocs](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-06) | [Status] |
-| Task-07   | [Pirate's Dilemma](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-07) | [Status] |
-| Task-08   | [Blog Burst](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-08) | [Status] |
-| Task-09   | [HERO-DEX!](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-09)| [Status] |
-| Task-10   | [Operation Pixel Merge](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-10)| [Status] |
+| Task-00   | [Install Linux](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-00) | Completed |
+| Task-01   | [Type Maestro](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-01) | Completed |
+| Task-02   | [Terminal Chaos](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-02) | Completed |
+| Task-03   | [Hello, World!](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-03) | Completed |
+| Task-04   | [Gopal and his PagePal](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-04)  | Completed |
+| Task-05   | [TerminalTrolly](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-05) | Completed |
+| Task-06   | [OpenDocs](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-06) | Completed |
+| Task-07   | [Pirate's Dilemma](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-07) | Partially done |
+| Task-08   | [Blog Burst](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-08) | Completed |
+| Task-09   | [HERO-DEX!](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-09)| Not attempted |
+| Task-10   | [Operation Pixel Merge](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-10)| Completed |
 
 
 
