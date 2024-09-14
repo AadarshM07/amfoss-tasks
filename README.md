@@ -17,7 +17,7 @@ My field of interest lies in both electronics and computers, which explains why 
 
 ## **What are your thoughts and feedback on the Praveshan Selection Process?**
 
-The tasks have been truly amazing. With each one, I learned something new . It’s been a long journey, filled with challenges, but over time, I was able to overcome them. I’m really grateful to my mentors, who continuously guided me throughout the process.Despite making it this far, I can’t help but feel a little unsatisfied, as I wasn’t able to complete all 10 tasks.
+The tasks have been truly amazing; I’ve learned so much from each one. It’s been a long journey filled with challenges, but I’ve managed to overcome them over time. I’m really grateful to my mentors for their continuous guidance. When I first saw the tasks, I never thought I would make it this far. Although I hope to be selected, I’m not completely disheartened if it doesn’t go that way, as the lessons I’ve learned throughout the process are incredibly valuable. I do feel a bit sad that I wasn’t able to complete all 10 tasks, despite giving my very best effort on each one.
 
 # **TASK STATUS**
 
